@@ -30,8 +30,8 @@
 		<pattr name = "gain~[1]" value = "310" />
 		<pattr name = "gain~[20]" value = "365" />
 		<pattr name = "gain~[21]" value = "365" />
-		<pattr name = "gain~[22]" value = "323" />
-		<pattr name = "gain~[23]" value = "323" />
+		<pattr name = "gain~[22]" value = "326" />
+		<pattr name = "gain~[23]" value = "326" />
 		<pattr name = "gain~[24]" value = "365" />
 		<pattr name = "gain~[25]" value = "365" />
 		<pattr name = "gain~[26]" value = "365" />
@@ -43,8 +43,8 @@
 		<pattr name = "gain~[31]" value = "365" />
 		<pattr name = "gain~[32]" value = "332" />
 		<pattr name = "gain~[33]" value = "365" />
-		<pattr name = "gain~[34]" value = "303" />
-		<pattr name = "gain~[35]" value = "303" />
+		<pattr name = "gain~[34]" value = "315" />
+		<pattr name = "gain~[35]" value = "315" />
 		<pattr name = "gain~[36]" value = "275" />
 		<pattr name = "gain~[37]" value = "275" />
 		<pattr name = "gain~[38]" value = "365" />
@@ -63,7 +63,7 @@
 		<pattr name = "gain~[4]" value = "216" />
 		<pattr name = "gain~[50]" value = "349" />
 		<pattr name = "gain~[51]" value = "307" />
-		<pattr name = "gain~[52]" value = "396" />
+		<pattr name = "gain~[52]" value = "344" />
 		<pattr name = "gain~[53]" value = "282" />
 		<pattr name = "gain~[54]" value = "267" />
 		<pattr name = "gain~[55]" value = "313" />
@@ -73,7 +73,7 @@
 		<pattr name = "gain~[59]" value = "177" />
 		<pattr name = "gain~[5]" value = "216" />
 		<pattr name = "gain~[60]" value = "261" />
-		<pattr name = "gain~[6]" value = "366" />
+		<pattr name = "gain~[6]" value = "368" />
 		<pattr name = "gain~[70]" value = "340" />
 		<pattr name = "gain~[72]" value = "338" />
 		<pattr name = "gain~[74]" value = "361" />
@@ -86,11 +86,11 @@
 		<pattr name = "number[12]" value = "365" />
 		<pattr name = "number[13]" value = "350" />
 		<pattr name = "number[14]" value = "365" />
-		<pattr name = "number[15]" value = "323" />
+		<pattr name = "number[15]" value = "326" />
 		<pattr name = "number[16]" value = "365" />
 		<pattr name = "number[17]" value = "365" />
 		<pattr name = "number[18]" value = "365" />
-		<pattr name = "number[19]" value = "303" />
+		<pattr name = "number[19]" value = "315" />
 		<pattr name = "number[20]" value = "275" />
 		<pattr name = "number[21]" value = "365" />
 		<pattr name = "number[22]" value = "281" />
@@ -665,8 +665,8 @@
 			<pattr name = "gain~[12]" value = "396" />
 			<pattr name = "gain~[1]" value = "365" />
 			<pattr name = "gain~[2]" value = "365" />
-			<pattr name = "gain~[3]" value = "406" />
-			<pattr name = "gain~[4]" value = "406" />
+			<pattr name = "gain~[3]" value = "395" />
+			<pattr name = "gain~[4]" value = "395" />
 			<pattr name = "gain~[5]" value = "399" />
 			<pattr name = "gain~[6]" value = "365" />
 			<pattr name = "gain~[7]" value = "365" />
@@ -677,8 +677,8 @@
 			<pattr name = "number[12]" value = "396" />
 			<pattr name = "number[1]" value = "365" />
 			<pattr name = "number[2]" value = "365" />
-			<pattr name = "number[3]" value = "406" />
-			<pattr name = "number[4]" value = "406" />
+			<pattr name = "number[3]" value = "395" />
+			<pattr name = "number[4]" value = "395" />
 			<pattr name = "number[5]" value = "365" />
 			<pattr name = "number[6]" value = "399" />
 			<pattr name = "number[7]" value = "365" />
@@ -691,8 +691,8 @@
 			<pattr name = "gain~[12]" value = "379" />
 			<pattr name = "gain~[1]" value = "365" />
 			<pattr name = "gain~[2]" value = "365" />
-			<pattr name = "gain~[3]" value = "399" />
-			<pattr name = "gain~[4]" value = "405" />
+			<pattr name = "gain~[3]" value = "392" />
+			<pattr name = "gain~[4]" value = "388" />
 			<pattr name = "gain~[5]" value = "365" />
 			<pattr name = "gain~[6]" value = "365" />
 			<pattr name = "gain~[7]" value = "365" />
@@ -703,8 +703,8 @@
 			<pattr name = "number[12]" value = "379" />
 			<pattr name = "number[1]" value = "365" />
 			<pattr name = "number[2]" value = "365" />
-			<pattr name = "number[3]" value = "399" />
-			<pattr name = "number[4]" value = "405" />
+			<pattr name = "number[3]" value = "392" />
+			<pattr name = "number[4]" value = "388" />
 			<pattr name = "number[5]" value = "365" />
 			<pattr name = "number[6]" value = "365" />
 			<pattr name = "number[7]" value = "365" />
@@ -771,7 +771,7 @@
 			<pattr name = "gain~[2]" value = "365" />
 			<pattr name = "gain~[3]" value = "412" />
 			<pattr name = "gain~[4]" value = "404" />
-			<pattr name = "gain~[5]" value = "360" />
+			<pattr name = "gain~[5]" value = "365" />
 			<pattr name = "gain~[6]" value = "365" />
 			<pattr name = "gain~[7]" value = "379" />
 			<pattr name = "gain~[8]" value = "365" />
@@ -784,7 +784,7 @@
 			<pattr name = "number[3]" value = "412" />
 			<pattr name = "number[4]" value = "404" />
 			<pattr name = "number[5]" value = "365" />
-			<pattr name = "number[6]" value = "360" />
+			<pattr name = "number[6]" value = "365" />
 			<pattr name = "number[7]" value = "379" />
 			<pattr name = "number[8]" value = "365" />
 			<pattr name = "number[9]" value = "375" />
@@ -797,7 +797,7 @@
 			<pattr name = "gain~[2]" value = "365" />
 			<pattr name = "gain~[3]" value = "380" />
 			<pattr name = "gain~[4]" value = "381" />
-			<pattr name = "gain~[5]" value = "361" />
+			<pattr name = "gain~[5]" value = "365" />
 			<pattr name = "gain~[6]" value = "365" />
 			<pattr name = "gain~[7]" value = "365" />
 			<pattr name = "gain~[8]" value = "365" />
@@ -810,7 +810,7 @@
 			<pattr name = "number[3]" value = "380" />
 			<pattr name = "number[4]" value = "381" />
 			<pattr name = "number[5]" value = "365" />
-			<pattr name = "number[6]" value = "361" />
+			<pattr name = "number[6]" value = "365" />
 			<pattr name = "number[7]" value = "365" />
 			<pattr name = "number[8]" value = "365" />
 			<pattr name = "number[9]" value = "358" />
