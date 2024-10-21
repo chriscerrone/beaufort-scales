@@ -110,7 +110,7 @@
 		<pattr name = "toggle[26]" value = "1" />
 		<pattr name = "toggle[27]" value = "1" />
 		<pattr name = "toggle[28]" value = "1" />
-		<pattr name = "umenu" value = "0" />
+		<pattr name = "umenu" value = "1" />
 		<patcher name = "sample-players">
 			<patcher name = "cc_sample_player[76]">
 				<patcher name = "sample-player">
