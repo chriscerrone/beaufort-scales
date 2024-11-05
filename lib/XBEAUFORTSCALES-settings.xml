@@ -19,8 +19,8 @@
 		<pattr name = "click_track_gain" value = "127" />
 		<pattr name = "gain~[10]" value = "227" />
 		<pattr name = "gain~[11]" value = "388" />
-		<pattr name = "gain~[12]" value = "338" />
-		<pattr name = "gain~[13]" value = "338" />
+		<pattr name = "gain~[12]" value = "358" />
+		<pattr name = "gain~[13]" value = "358" />
 		<pattr name = "gain~[14]" value = "341" />
 		<pattr name = "gain~[15]" value = "341" />
 		<pattr name = "gain~[16]" value = "365" />
@@ -81,7 +81,7 @@
 		<pattr name = "gain~[8]" value = "347" />
 		<pattr name = "gain~[9]" value = "354" />
 		<pattr name = "js" value = "" />
-		<pattr name = "number[10]" value = "338" />
+		<pattr name = "number[10]" value = "358" />
 		<pattr name = "number[11]" value = "341" />
 		<pattr name = "number[12]" value = "365" />
 		<pattr name = "number[13]" value = "350" />
@@ -107,8 +107,8 @@
 		<pattr name = "pan[7]" value = "32." />
 		<pattr name = "pan[8]" value = "64." />
 		<pattr name = "textbutton" value = "1" />
-		<pattr name = "toggle[26]" value = "0" />
-		<pattr name = "toggle[27]" value = "0" />
+		<pattr name = "toggle[26]" value = "1" />
+		<pattr name = "toggle[27]" value = "1" />
 		<pattr name = "toggle[28]" value = "1" />
 		<pattr name = "umenu" value = "1" />
 		<patcher name = "sample-players">
