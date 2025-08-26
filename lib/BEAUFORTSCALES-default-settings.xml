@@ -23,17 +23,17 @@
 		<pattr name = "gain~[13]" value = "338" />
 		<pattr name = "gain~[14]" value = "341" />
 		<pattr name = "gain~[15]" value = "341" />
-		<pattr name = "gain~[16]" value = "365" />
+		<pattr name = "gain~[16]" value = "353" />
 		<pattr name = "gain~[17]" value = "365" />
 		<pattr name = "gain~[18]" value = "350" />
 		<pattr name = "gain~[19]" value = "350" />
 		<pattr name = "gain~[1]" value = "310" />
-		<pattr name = "gain~[20]" value = "365" />
+		<pattr name = "gain~[20]" value = "353" />
 		<pattr name = "gain~[21]" value = "365" />
 		<pattr name = "gain~[22]" value = "323" />
 		<pattr name = "gain~[23]" value = "323" />
 		<pattr name = "gain~[24]" value = "365" />
-		<pattr name = "gain~[25]" value = "365" />
+		<pattr name = "gain~[25]" value = "275" />
 		<pattr name = "gain~[26]" value = "365" />
 		<pattr name = "gain~[27]" value = "271" />
 		<pattr name = "gain~[28]" value = "365" />
@@ -45,10 +45,6 @@
 		<pattr name = "gain~[33]" value = "365" />
 		<pattr name = "gain~[34]" value = "303" />
 		<pattr name = "gain~[35]" value = "303" />
-		<pattr name = "gain~[36]" value = "275" />
-		<pattr name = "gain~[37]" value = "275" />
-		<pattr name = "gain~[38]" value = "365" />
-		<pattr name = "gain~[39]" value = "365" />
 		<pattr name = "gain~[3]" value = "394" />
 		<pattr name = "gain~[40]" value = "281" />
 		<pattr name = "gain~[41]" value = "281" />
@@ -85,9 +81,9 @@
 		<pattr name = "number[11]" value = "341" />
 		<pattr name = "number[12]" value = "365" />
 		<pattr name = "number[13]" value = "350" />
-		<pattr name = "number[14]" value = "365" />
+		<pattr name = "number[14]" value = "353" />
 		<pattr name = "number[15]" value = "323" />
-		<pattr name = "number[16]" value = "365" />
+		<pattr name = "number[16]" value = "353" />
 		<pattr name = "number[17]" value = "365" />
 		<pattr name = "number[18]" value = "365" />
 		<pattr name = "number[19]" value = "303" />
@@ -97,6 +93,9 @@
 		<pattr name = "number[23]" value = "285" />
 		<pattr name = "number[24]" value = "273" />
 		<pattr name = "number[3]" value = "310" />
+		<pattr name = "number[44]" value = "365" />
+		<pattr name = "number[45]" value = "365" />
+		<pattr name = "number[46]" value = "365" />
 		<pattr name = "number[4]" value = "216" />
 		<pattr name = "pan[1]" value = "-32." />
 		<pattr name = "pan[2]" value = "-46." />
@@ -657,6 +656,12 @@
 					<pattr name = "gain~[1]" value = "376" />
 					<pattr name = "number" value = "376" />
 				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "effects-out">
+			<patcher name = "patcher[1]">
+				<pattr name = "gain~[1]" value = "412" />
+				<pattr name = "gain~[2]" value = "412" />
 			</patcher>
 		</patcher>
 		<patcher name = "S1-effect-controls">
